@@ -1,2 +1,2 @@
 # dolars_screensaver
-Simple program, just run index.html and enjoy.
+Simple program, just run dolary.html and enjoy.
