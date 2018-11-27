@@ -1,2 +1,2 @@
 # dolars_screensaver
-Program written in Javascript
+Simple program, just run index.html and enjoy.
