@@ -1,2 +1,3 @@
 # dolars_screensaver
-Simple program, just run dolary.html and enjoy.
+Prosty program generujący rózne obrazki dolarów na ekranie z losową szybkością i losowym kierunkiem
+poruszania. Dolary odbijają się od ścian.
